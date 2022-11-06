@@ -1,0 +1,15 @@
+2022/11/06 22:19:01 StrongDMM, v2.6.2.alpha
+2022/11/06 22:19:01 Kernel: windows
+2022/11/06 22:19:01 Core: 10.0.14393
+2022/11/06 22:19:01 Platform: unknown
+2022/11/06 22:19:01 OS: windows
+2022/11/06 22:19:01 CPUs: 4
+2022/11/06 22:19:01 Runtime: go1.18.2
+2022/11/06 22:19:01 [app] starting
+2022/11/06 22:19:01 [app] internal dir: C:\Users\brstation\AppData\Roaming\StrongDMM
+2022/11/06 22:19:01 [app] log dir: C:\Users\brstation\AppData\Roaming\StrongDMM\logs
+2022/11/06 22:19:01 [window] creating native window
+2022/11/06 22:19:01 [window] setting up glfw
+2022/11/06 22:19:01 [window] glfw initialized
+2022/11/06 22:19:01 [window] using opengl 3.3, core profile
+2022/11/06 22:19:01 [window] unable to create window:APIUnavailable: WGL: The driver does not appear to support OpenGL
