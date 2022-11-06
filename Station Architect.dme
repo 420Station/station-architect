@@ -17,5 +17,6 @@
 #include "Station Architect.dm"
 #include "code\_CommonDefines.dm"
 #include "code\mob\player.dm"
+#include "code\turf\base.dm"
 // END_INCLUDE
 
